@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DP", "3DP\3DP.csproj", "{3144664C-84C7-4D0D-ADE0-5F1FE296B989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Debug|x64.ActiveCfg = Debug|x64
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Debug|x64.Build.0 = Debug|x64
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Debug|x86.ActiveCfg = Debug|x86
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Debug|x86.Build.0 = Debug|x86
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Release|x64.ActiveCfg = Release|x64
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Release|x64.Build.0 = Release|x64
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Release|x86.ActiveCfg = Release|x86
+		{3144664C-84C7-4D0D-ADE0-5F1FE296B989}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC8B4EC-3AFA-4043-B115-0669D48E435F}
+	EndGlobalSection
+EndGlobal
