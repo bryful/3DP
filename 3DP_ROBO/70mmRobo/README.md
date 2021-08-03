@@ -9,7 +9,10 @@ gyalles_22さんの[ワンプレートソルジャー](https://gyalles22.booth.p
 ![70mmRobo_3.jpg](70mmRobo_3.jpg)<br>
 ![70mmRobo_4.jpg](70mmRobo_4.jpg)<br>
 
-夏休みに色を塗ろう！
+夏休みに色を塗ろう！<br>
+
+M2_6mmの皿ネジを多用しましたが、やっぱり6mmだと緩みが酷いです。何か改善できる方法ないかな？M2_10mmだとほぼ緩みはなくなるけどデザインにかなり制約がでるからなぁ。
+
 
 
 # Authors
